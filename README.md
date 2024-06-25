@@ -58,7 +58,8 @@
 <br>
 * This is a 2D game with a horror theme that supports both single-player and multiplayer modes.
 
-  * This 2D horror-themed game is structured across 3 distinct levels. In order to progress from one level to the next, players must successfully pass a QCM (Questionnaire) at the end of each level. These QCMs serve as checkpoints, testing the     player's understanding and knowledge gained throughout the preceding level.
+  * This 2D horror-themed game is structured across 3 distinct levels. In order to progress from one level to the next, players must successfully pass a QCM (Questionnaire) at the end of each 
+     level. These QCMs serve as checkpoints, testing the player's understanding and knowledge gained throughout the preceding level.
 
   * This is a 2D game with a horror theme that supports both single-player and multiplayer modes. Like any game, Unlifted Curse has a Story section where players can read about the game's narrative.
 
@@ -73,9 +74,8 @@
 
 As libary we used SDL :<br>
 
-* ![SDL](https://www.libsdl.org/)
-* ![C++](https://devdocs.io/c/)
-* ![Ubunto](https://ubuntu.com/download)
+* ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,9 +92,9 @@ As libary we used SDL :<br>
 
 Follow the youtube Video to establish the Oracle Connexion with Qt.
 
-* ![SDL](https://www.libsdl.org/)
-* ![C](https://devdocs.io/c/)
-* ![Ubunto](https://ubuntu.com/download)
+* ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 ### Installation
@@ -104,7 +104,7 @@ Follow the youtube Video to establish the Oracle Connexion with Qt.
    git clone https://github.com/benammarfares/Unlifted-Curse_2D-SDL-Game.git
    ```
 2. Install SDL Library.
-  ```sh
+   ```sh
    sudo apt-get install libsdl1.2-dev
    ``` 
 3. Install C Compiler.
@@ -112,8 +112,8 @@ Follow the youtube Video to establish the Oracle Connexion with Qt.
    sudo apt-get install gcc
    ``` 
 4. Install Build Tools<br>
- ```sh
-  sudo apt-get install make
+   ```sh
+   sudo apt-get install make
    ``` 
 
    
