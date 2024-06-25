@@ -124,11 +124,11 @@ Follow the youtube Video to establish the Oracle Connexion with Qt.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. At enter the cloned project.
+1. Enter the cloned project.
 
 2. Then Install all packages.
        
-3. last execute the Game file.
+3. lastly execute the Game.
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
