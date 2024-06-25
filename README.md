@@ -85,7 +85,7 @@ As libary we used SDL :<br>
 ## Getting Started
 
 ❗❗❗ Important !!! <br>
- *For the launch process you just clone the project on your Virtual environment then in terminal enter the doc where you cloned the project and execute the file Game .<br>
+ *For the launch process you just clone the project on your Virtual environment then in terminal enter the doc where you cloned the project and execute the Game .<br>
 
 
 ### Prerequisites
