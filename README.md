@@ -103,18 +103,33 @@ Follow the youtube Video to establish the Oracle Connexion with Qt.
    ```sh
    git clone https://github.com/benammarfares/Unlifted-Curse_2D-SDL-Game.git
    ```
-2. Install SDL Library.
+3. Install SDL Library.
    ```sh
-   sudo apt-get install libsdl1.2-dev
+   sudo apt-get update
+   ```
+   ```sh
+   sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
    ``` 
-3. Install C Compiler.
+5. Install C Compiler.
    ```sh
    sudo apt-get install gcc
    ``` 
-4. Install Build Tools<br>
+6. Install Build Tools<br>
    ```sh
    sudo apt-get install make
-   ``` 
+   ```
+7. Execute the Game
+   ```sh
+   cd name of the Cloned version of the  project
+   ```
+   ```sh
+   make
+   ```
+   ```sh
+   ./Game
+   ```
+   
+   
 
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
